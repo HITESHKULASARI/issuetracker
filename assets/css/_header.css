@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+  }
+  
+.navbar {
+    background-color: #333; /* Change the color of the navbar */
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 999;
+    margin-bottom: 2px;
+  }
+  
+.navbar-container {
+    display: flex;
+    justify-content: center;
+    padding: 10px 0;
+  }
+  
+.nav-item {
+    color: #FFF; /* Change the color of the "HOME PAGE" link */
+    font-weight: bold;
+  }
+  
+ 
+  
+  
+  
+  
+  
