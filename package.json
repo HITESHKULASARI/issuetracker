@@ -1,0 +1,17 @@
+{
+  "name": "issue-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "HITESH KULASARI",
+  "license": "ISC",
+  "dependencies": {
+    "express.js": "^1.0.0",
+    "node.js": "^0.0.1-security",
+    "nodemon": "^3.0.1"
+  }
+}
