@@ -1,4 +1,7 @@
 
 module.exports.home = function(req,res){
-    return res.end('<h1>Express is up for Codieal!</h1>')
+    console.log('hanju');
+    return res.render('home.ejs',{
+        title:"HOME"
+    });
 }
